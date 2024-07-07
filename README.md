@@ -54,3 +54,6 @@ Contributions are welcome! Please follow these steps:
 3. Make your changes and commit them (`git commit -m 'Add new feature'`).
 4. Push to the branch (`git push origin feature-branch`).
 5. Open a Pull Request.
+
+## Video Demo
+https://github.com/alphaXcosmo/Time-Table-Management-System/assets/141503922/f51b2103-e62c-4c16-9cbb-f820ec0020f2 
