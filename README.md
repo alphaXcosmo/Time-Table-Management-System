@@ -25,7 +25,7 @@ Follow these steps to install the project:
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/your-username/time-table-management-system.git
+    git clone https://github.com/alphaXcosmo/time-table-management-system.git
     ```
 
 2. Navigate to the project directory:
